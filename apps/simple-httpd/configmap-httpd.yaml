@@ -4,4 +4,4 @@ metadata:
   name: httpd-index
 data:
   index.html: |
-    Ini tampilan dari HTTPD dan nama saya {{ nama kamu}}
+    Ini tampilan dari HTTPD dan nama saya raffi

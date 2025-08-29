@@ -4,4 +4,4 @@ metadata:
   name: nginx-index
 data:
   index.html: |
-    Ini tampilan dari NGINX dan nama saya {{ nama kamu }}
+    Ini tampilan dari NGINX dan nama saya raffi
